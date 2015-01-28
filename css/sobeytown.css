@@ -190,4 +190,11 @@ p { font-family: 'Nixie One', cursive; }
     table-layout: fixed;
 }
 
+.col-md-4, .col-md-8 {
+    float:none;
+    display:inline-block;
+    vertical-align:middle;
+    margin-right:-4px;
+}
+
 
