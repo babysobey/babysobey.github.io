@@ -197,4 +197,8 @@ p { font-family: 'Nixie One', cursive; }
     margin-right:-4px;
 }
 
+.navbar-toggle .icon-bar {
+  background-color: #192740;
+}
+
 
