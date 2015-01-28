@@ -8,6 +8,7 @@ a:focus,
 a:hover {
   background-color: transparent;
   color: #192740;
+  font-family: 'Nixie One', cursive;
   text-decoration: none;
 }
 
@@ -15,9 +16,10 @@ a:hover {
 .btn-default,
 .btn-default:hover,
 .btn-default:focus {
-  color: #000;
+  color: #192740;
   text-shadow: none; /* Prevent inheritence from `body` */
-  background-color: #ffffff;
+  background-color: #FDFFF1;
+  font-family: 'Nixie One', cursive;
   padding: 10px;
 }
 
