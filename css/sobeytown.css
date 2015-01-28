@@ -27,8 +27,8 @@ a:hover {
  * Header
  */
 .navbar-sobey {
-    background-color: #FDFFF1;
     border-color: #e7e7e7;
+    background-color: #FDFFF1;
     color: #192740;
 }
 
@@ -116,6 +116,25 @@ body {
   background-color: #A5F2D4;
   color: #192740;
   margin-bottom: 0;
+}
+
+.shortcut {
+  padding-bottom: 100px;
+  padding-top: 30px;
+}
+
+.boy {
+  padding-bottom: 100px;
+  padding-top: 30px;
+  background-color: #192740;
+  color: #FDFFF1;
+}
+
+.girl {
+  padding-bottom: 100px;
+  padding-top: 30px;
+  background-color: #F88379;
+  color: #FDFFF1;
 }
 
 .sobeytown-navy {
